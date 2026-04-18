@@ -19,4 +19,5 @@ class Program
         PrintInfo(myCircle);
         PrintInfo(mySquare);
     }
+
 }
