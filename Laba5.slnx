@@ -1,3 +1,9 @@
 <Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
   <Project Path="Laba5/Laba5.csproj" />
+  <Project Path="ProgramOnCpp/ProgramOnCpp.vcxproj" Id="f6d8b7c6-989f-4e59-88f4-6adb10b5494c" />
 </Solution>
